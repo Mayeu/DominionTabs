@@ -1,36 +1,36 @@
-1	Cellar	Dominion	Action	$2	+1 Action, Discard any number of cards. +1 Card per card discarded.
-2	Chapel	Dominion	Action	$2	Trash up to 4 cards from your hand.
-3	Moat	Dominion	Action - Reaction	$2	+2 Cards, When another player plays an Attack card, you may reveal this from your hand. If you do, you are unaffected by that Attack.
-4	Chancellor	Dominion	Action	$3	+2 Coins, You may immediately put your deck into your discard pile.
+1	Cave	Dominion	Action	$2	+1 Action, Discard any number of cards. +1 Card per card discarded.
+2	Chapelle	Dominion	Action	$2	Trash up to 4 cards from your hand.
+3	Douves	Dominion	Action - Reaction	$2	+2 Cards, When another player plays an Attack card, you may reveal this from your hand. If you do, you are unaffected by that Attack.
+4	Chancelier	Dominion	Action	$3	+2 Coins, You may immediately put your deck into your discard pile.
 5	Village	Dominion	Action	$3	+1 Card, +2 Actions.
-6	Woodcutter	Dominion	Action	$3	+1 Buy, +2 Coins.
-7	Workshop	Dominion	Action	$3	Gain a card costing up to 4 Coins.
-8	Bureaucrat	Dominion	Action - Attack	$4	Gain a silver card; put it on top of your deck. Each other player reveals a Victory card from his hand and puts it on his deck (or reveals a hand with no Victory cards).
-9	Feast	Dominion	Action	$4	Trash this card. Gain a card costing up to 5 Coins.
-10	Gardens	Dominion	Victory	$4	Variable, Worth 1 <VP> for every 10 cards in your deck (rounded down).
-11	Militia	Dominion	Action - Attack	$4	+2 Coins, Each other player discards down to 3 cards in his hand.
-12	Moneylender	Dominion	Action	$4	Trash a Copper from your hand. If you do, +3 Coins.
-13	Remodel	Dominion	Action	$4	Trash a card from your hand. Gain a card costing up to 2 Coins more than the trashed card.
-14	Smithy	Dominion	Action	$4	+3 Cards.
-15	Spy	Dominion	Action - Attack	$4	+1 Card, +1 Action, Each player (including you) reveals the top card of his deck and either discards it or puts it back, your chouce.
-16	Thief	Dominion	Action - Attack	$4	Each other player reveals the top 2 cards of his deck. If they revealed any Treasure cards, they trash one of them that you choose. You may gain any or all of these trashed cards. They discard the other revealed cards.
-17	Throne Room	Dominion	Action	$4	Choose an Action card in your hand. Play it twice.
-18	Council Room	Dominion	Action	$5	+4 Cards, +1 Buy, Each other player draws a card.
+6	Bûcheron	Dominion	Action	$3	+1 Buy, +2 Coins.
+7	Atelier	Dominion	Action	$3	Gain a card costing up to 4 Coins.
+8	Bureaucrate	Dominion	Action - Attack	$4	Gain a silver card; put it on top of your deck. Each other player reveals a Victory card from his hand and puts it on his deck (or reveals a hand with no Victory cards).
+9	Festin	Dominion	Action	$4	Trash this card. Gain a card costing up to 5 Coins.
+10	Jardins	Dominion	Victory	$4	Variable, Worth 1 <VP> for every 10 cards in your deck (rounded down).
+11	Milice	Dominion	Action - Attack	$4	+2 Coins, Each other player discards down to 3 cards in his hand.
+12	Prêteur sur Gages	Dominion	Action	$4	Trash a Copper from your hand. If you do, +3 Coins.
+13	Rénovation	Dominion	Action	$4	Trash a card from your hand. Gain a card costing up to 2 Coins more than the trashed card.
+14	Forgeron	Dominion	Action	$4	+3 Cards.
+15	Espion	Dominion	Action - Attack	$4	+1 Card, +1 Action, Each player (including you) reveals the top card of his deck and either discards it or puts it back, your chouce.
+16	Voleur	Dominion	Action - Attack	$4	Each other player reveals the top 2 cards of his deck. If they revealed any Treasure cards, they trash one of them that you choose. You may gain any or all of these trashed cards. They discard the other revealed cards.
+17	Salle du Trône	Dominion	Action	$4	Choose an Action card in your hand. Play it twice.
+18	Chambre du Conseil	Dominion	Action	$5	+4 Cards, +1 Buy, Each other player draws a card.
 19	Festival	Dominion	Action	$5	+2 Actions, +1 Buy, +2 Coins.
-20	Laboratory	Dominion	Action	$5	+2 Cards, +1 Action.
-21	Library	Dominion	Action	$5	Draw until you have 7 cards in hand. You may set aside any Action cards drawn this way, as you draw them; discard the set aside cards after you finish drawing.
-22	Market	Dominion	Action	$5	+1 Card, +1 Action, +1 Buy, +1 Coin.
+20	Laboratoire	Dominion	Action	$5	+2 Cards, +1 Action.
+21	Bibliothèque	Dominion	Action	$5	Draw until you have 7 cards in hand. You may set aside any Action cards drawn this way, as you draw them; discard the set aside cards after you finish drawing.
+22	Marché	Dominion	Action	$5	+1 Card, +1 Action, +1 Buy, +1 Coin.
 23	Mine	Dominion	Action	$5	Trash a Treasure card from your hand. Gain a Treasure card costing up to 3 Coins more; put it into your hand.
-24	Witch	Dominion	Action - Attack	$5	+2 Cards, Each other player gains a Curse card.
-25	Adventurer	Dominion	Action	$6	Reveal cards from your deck until you reveal 2 Treasure cards. Put those Treasure cards in your hand and discard the other revealed cards.
-26	Copper	Dominion	Treasure	$0	Worth 1 Coin.
-27	Silver	Dominion	Treasure	$3	Worth 2 Coins.
-28	Gold	Dominion	Treasure	$6	Worth 3 Coins.
-29	Curse	Dominion	Curse	$0	-1 <VP>
-30	Estate	Dominion	Victory	$2	1 <VP>
-31	Duchy	Dominion	Victory	$5	3 <VP>
+24	Sorcière	Dominion	Action - Attack	$5	+2 Cards, Each other player gains a Curse card.
+25	Aventurier	Dominion	Action	$6	Reveal cards from your deck until you reveal 2 Treasure cards. Put those Treasure cards in your hand and discard the other revealed cards.
+26	Cuivre	Dominion	Treasure	$0	Worth 1 Coin.
+27	Argent	Dominion	Treasure	$3	Worth 2 Coins.
+28	Or	Dominion	Treasure	$6	Worth 3 Coins.
+29	Malédiction	Dominion	Curse	$0	-1 <VP>
+30	Domaine	Dominion	Victory	$2	1 <VP>
+31	Duché	Dominion	Victory	$5	3 <VP>
 32	Province	Dominion	Victory	$8	6 <VP>
-33	Trash	Dominion	Action	$0	Pile of trash.
+33	Rebus	Dominion	Action	$0	Pile of trash.
 
 1	Courtyard	Intrigue	Action	$2	+3 Card, Put a card from your hand on top of your deck.
 2	Pawn	Intrigue	Action	$2	Choose two: +1 Card, +1 Action, +1 Buy, +1 Coin. (The choices must be different.).
